@@ -14,8 +14,8 @@ layout: default
         {% endif %}
         {{page.content | markdownify}}
     </article>
-            {% if page.categories %}
-                {% include p5.html %}
+            {% if page.p5code %}
+                {% include page.p5code %}
             {% else %}
             {% endif %}
     </div>
