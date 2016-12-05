@@ -23,4 +23,4 @@ permalink: /about/
 이 웹페이지는 서울예술대학교 2016년 2학기 <디지털아트프로그래밍> B/D반을 위해 만들어졌습니다.
 
 - 지도교수 : 김승범 picxenk@gmail.com
-- 수업사이트 : http://bit.ly/sia2016noc
+- 수업사이트 : <a href="http://bit.ly/sia2016noc">http://bit.ly/sia2016noc</a>
