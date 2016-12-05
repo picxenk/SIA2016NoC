@@ -1,7 +1,7 @@
 var balls = [];
 
 function setup() {
-  var myCanvas = createCanvas(800, 800);
+  var myCanvas = createCanvas(700, 300);
   myCanvas.parent('p5Canvas');
   background(220);
 }
