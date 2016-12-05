@@ -19,3 +19,8 @@ permalink: /about/
 <p>어쩌면 그 힘(force)은 앞으로도 계속 우리와 함께 할지도 모른다. 그것이 바로 코드의 본성(Nature of Code)이다.
 </p>
 </blockquote>
+
+이 웹페이지는 서울예술대학교 2016년 2학기 <디지털아트프로그래밍> B/D반을 위해 만들어졌습니다.
+
+- 지도교수 : 김승범 picxenk@gmail.com
+- 수업사이트 : http://bit.ly/sia2016noc
