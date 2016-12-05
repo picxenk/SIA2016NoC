@@ -6,7 +6,7 @@ permalink: ':title/'
 
 markdown: kramdown
 baseurl: "/SIA2016NoC"
-
+topimage: "f_ma_title.png"
 
 sass:
     style: compressed
