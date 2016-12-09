@@ -15,7 +15,9 @@ var planet8;
 var planet9;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  var myCanvas = createCanvas(700, 300);
+  myCanvas.parent('p5Canvas');
+  // createCanvas(windowWidth, windowHeight);
   background(255);
   frameRate(24.95);
   circleLine = new CircleLine();
