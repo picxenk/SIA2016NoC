@@ -25,9 +25,9 @@ width: medium
 이렇게 강조 구문을 만들 수 있습니다.
 </blockquote> -->
 
-- https://goo.gl/kiuTw8 / 아이디어 스케치
-- https://goo.gl/XtpMmb / 프로토타이핑
-- https://goo.gl/rX7wC0 / 저널링
+-  [아이디어 스케치](https://goo.gl/kiuTw8)
+-  [프로토타이핑](https://goo.gl/XtpMmb)
+-  [저널링](https://goo.gl/rX7wC0)
 
 ## Code
 {% highlight javascript %}
