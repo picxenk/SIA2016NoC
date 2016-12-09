@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(240);
 
   for (var i=0; i<balls.length; i++) {
     balls[i].move();
