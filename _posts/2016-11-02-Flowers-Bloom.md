@@ -5,7 +5,7 @@ description: "명왕성을 포함한 9개의 태양계 행성과 9개의 지하�
 date:   2016-12-09
 img: FB_DrawingImage.png
 p5code: FlowersBloom
-color: 03A9F4
+color: 2A7EA4
 author: "Flowers Bloom : Line 9 (개화, 開花 : 9호선)"
 permalink: /flowers_bloom/
 width: medium
