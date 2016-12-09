@@ -31,7 +31,6 @@ width: medium
 
 ## Code
 {% highlight javascript %}
-// 가장 의미가 있는 코드의 부분을 적습니다.
 function Planet() {
   this.show = function(){
 
