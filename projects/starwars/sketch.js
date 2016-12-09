@@ -55,9 +55,9 @@ function setup() {
   lightSaberSnd2 = loadSound('http://cfile5.uf.tistory.com/media/211D993D5836918C1695BA')
   deathStarBeamSnd = loadSound('http://cfile27.uf.tistory.com/media/24741E4C583684AA076F2B')
 
-  deathStarImg = loadImage('assets/deathStar.png');
-  hothImg = loadImage('assets/hoth.png');
-  tatooineImg = loadImage('assets/tatooine.png');
+  deathStarImg = loadImage('./assets/deathStar.png');
+  hothImg = loadImage('./assets/hoth.png');
+  tatooineImg = loadImage('./assets/tatooine.png');
   coruscantImg = loadImage('assets/coruscant.png');
   dagobahImg = loadImage('assets/dagobah.png');
   mustafarImg = loadImage('assets/mustafar.png');
