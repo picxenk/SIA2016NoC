@@ -48,7 +48,9 @@ var isPlaying
 var mousePointerIndex
 
 function setup() {
-  createCanvas(windowWidth, windowHeight)
+  // createCanvas(windowWidth, windowHeight)
+  var myCanvas = createCanvas(700, 700);
+  myCanvas.parent('p5Canvas');
   noCursor()
   starwarsTheme = loadSound('/SIA2016NoC/projects/starwars/assets/theme.mp3',loaded);
   lightSaberSnd = loadSound('/SIA2016NoC/projects/starwars/assets/saber1.mp3');
@@ -114,7 +116,7 @@ function loaded(){
 
 function draw() {
   // createCanvas(windowWidth, windowHeight)
-  var myCanvas = createCanvas(700, 500);
+  var myCanvas = createCanvas(700, 700);
   myCanvas.parent('p5Canvas');
   if(!isPlaying){
     opening.show()
