@@ -50,34 +50,34 @@ var mousePointerIndex
 function setup() {
   createCanvas(windowWidth, windowHeight)
   noCursor()
-  starwarsTheme = loadSound('http://cfile23.uf.tistory.com/media/251AA24458367CBD109905',loaded);
-  lightSaberSnd = loadSound('http://cfile25.uf.tistory.com/media/2329114658368327202495');
-  lightSaberSnd2 = loadSound('http://cfile5.uf.tistory.com/media/211D993D5836918C1695BA')
-  deathStarBeamSnd = loadSound('http://cfile27.uf.tistory.com/media/24741E4C583684AA076F2B')
+  starwarsTheme = loadSound('./projects/starwars/theme.mp3',loaded);
+  lightSaberSnd = loadSound('./projects/starwars/saber1.mp3');
+  lightSaberSnd2 = loadSound('./projects/starwars/saber2.mp3')
+  deathStarBeamSnd = loadSound('./projects/starwars/beam.mp3')
 
-  deathStarImg = loadImage('./assets/deathStar.png');
-  hothImg = loadImage('./assets/hoth.png');
-  tatooineImg = loadImage('./assets/tatooine.png');
-  coruscantImg = loadImage('assets/coruscant.png');
-  dagobahImg = loadImage('assets/dagobah.png');
-  mustafarImg = loadImage('assets/mustafar.png');
-  nabooImg = loadImage('assets/naboo.png');
+  deathStarImg = loadImage('./projects/starwars/assets/deathStar.png');
+  hothImg = loadImage('./projects/starwars/assets/hoth.png');
+  tatooineImg = loadImage('./projects/starwars/assets/tatooine.png');
+  coruscantImg = loadImage('./projects/starwars/assets/coruscant.png');
+  dagobahImg = loadImage('./projects/starwars/assets/dagobah.png');
+  mustafarImg = loadImage('./projects/starwars/assets/mustafar.png');
+  nabooImg = loadImage('./projects/starwars/assets/naboo.png');
 
-  deathStarHoverImg = loadImage('assets/deathStarHover.png')
-  hothHoverImg = loadImage('assets/hothHover.png')
-  tatooineHoverImg = loadImage('assets/tatooineHover.png')
-  coruscantHoverImg = loadImage('assets/coruscantHover.png')
-  dagobahHoverImg = loadImage('assets/dagobahHover.png')
-  mustafarHoverImg = loadImage('assets/mustafarHover.png')
-  nabooHoverImg = loadImage('assets/nabooHover.png')
+  deathStarHoverImg = loadImage('./projects/starwars/assets/deathStarHover.png')
+  hothHoverImg = loadImage('./projects/starwars/assets/hothHover.png')
+  tatooineHoverImg = loadImage('./projects/starwars/assets/tatooineHover.png')
+  coruscantHoverImg = loadImage('./projects/starwars/assets/coruscantHover.png')
+  dagobahHoverImg = loadImage('./projects/starwars/assets/dagobahHover.png')
+  mustafarHoverImg = loadImage('./projects/starwars/assets/mustafarHover.png')
+  nabooHoverImg = loadImage('./projects/starwars/assets/nabooHover.png')
 
-  explosionImg = loadAnimation ("assets/01.png","assets/09.png")
+  explosionImg = loadAnimation ("./projects/starwars/assets/01.png","./projects/starwars/assets/09.png")
 
-  logoImg = loadImage('assets/logo3.png');
-  newLogoImg = loadImage('assets/newLogo.png')
-  lightSaberImg1 = loadImage('assets/lightSaber1.png')
-  lightSaberImg2 = loadImage('assets/lightSaber2.png')
-  lightSaberImg3 = loadImage('assets/lightSaber3.png')
+  logoImg = loadImage('./projects/starwars/assets/logo3.png');
+  newLogoImg = loadImage('./projects/starwars/assets/newLogo.png')
+  lightSaberImg1 = loadImage('./projects/starwars/assets/lightSaber1.png')
+  lightSaberImg2 = loadImage('./projects/starwars/assets/lightSaber2.png')
+  lightSaberImg3 = loadImage('./projects/starwars/assets/lightSaber3.png')
 
   // var fs = fullscreen();
   // fullscreen(!fs);
