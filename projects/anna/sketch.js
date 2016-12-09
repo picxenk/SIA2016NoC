@@ -12,18 +12,18 @@ var song; var song1; var song2; var song3; var song4; var song5; var song6; var 
 var noise1;
 var amp = 0.01;
 function preload() {
-  noise1 = loadSound('/SIA2016NoC/master/files/anna/pink.wav');
-  song = loadSound('/SIA2016NoC/master/files/anna/metronome.wav');
-  song1 = loadSound('/SIA2016NoC/master/files/anna/water_drops_reverb.wav');
-  song2 = loadSound('/SIA2016NoC/master/files/anna/bell_1.wav');
-  song3 = loadSound('/SIA2016NoC/master/files/anna/bottle_close.wav');
-  song4 = loadSound('/SIA2016NoC/master/files/anna/bottle_fill_glass2.wav');
-  song5 = loadSound('/SIA2016NoC/master/files/anna/bottle_put_down.wav');
-  song6 = loadSound('/SIA2016NoC/master/files/anna/foto_klick_2.wav');
-  song7 = loadSound('/SIA2016NoC/master/files/anna/phone_dial.wav');
-  song8 = loadSound('/SIA2016NoC/master/files/anna/fx_drop.wav');
-  song9 = loadSound('/SIA2016NoC/master/files/anna/switch_1.wav');
-  song10 = loadSound('/SIA2016NoC/master/files/anna/water_dripping2.wav');
+  noise1 = loadSound('/SIA2016NoC/files/anna/pink.wav');
+  song = loadSound('/SIA2016NoC/files/anna/metronome.wav');
+  song1 = loadSound('/SIA2016NoC/files/anna/water_drops_reverb.wav');
+  song2 = loadSound('/SIA2016NoC/files/anna/bell_1.wav');
+  song3 = loadSound('/SIA2016NoC/files/anna/bottle_close.wav');
+  song4 = loadSound('/SIA2016NoC/files/anna/bottle_fill_glass2.wav');
+  song5 = loadSound('/SIA2016NoC/files/anna/bottle_put_down.wav');
+  song6 = loadSound('/SIA2016NoC/files/anna/foto_klick_2.wav');
+  song7 = loadSound('/SIA2016NoC/files/anna/phone_dial.wav');
+  song8 = loadSound('/SIA2016NoC/files/anna/fx_drop.wav');
+  song9 = loadSound('/SIA2016NoC/files/anna/switch_1.wav');
+  song10 = loadSound('/SIA2016NoC/files/anna/water_dripping2.wav');
 }
 
 function setup() {
