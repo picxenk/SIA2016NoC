@@ -15,7 +15,7 @@ var planet8;
 var planet9;
 
 function setup() {
-  var myCanvas = createCanvas(700, 300);
+  var myCanvas = createCanvas(700, 500);
   myCanvas.parent('p5Canvas');
   // createCanvas(windowWidth, windowHeight);
   background(255);
