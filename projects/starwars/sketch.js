@@ -50,10 +50,10 @@ var mousePointerIndex
 function setup() {
   createCanvas(windowWidth, windowHeight)
   noCursor()
-  starwarsTheme = loadSound('/SIA2016NoC/projects/starwars/theme.mp3',loaded);
-  lightSaberSnd = loadSound('/SIA2016NoC/projects/starwars/saber1.mp3');
-  lightSaberSnd2 = loadSound('/SIA2016NoC/projects/starwars/saber2.mp3')
-  deathStarBeamSnd = loadSound('/SIA2016NoC/projects/starwars/beam.mp3')
+  starwarsTheme = loadSound('/SIA2016NoC/projects/starwars/assets/theme.mp3',loaded);
+  lightSaberSnd = loadSound('/SIA2016NoC/projects/starwars/assets/saber1.mp3');
+  lightSaberSnd2 = loadSound('/SIA2016NoC/projects/starwars/assets/saber2.mp3')
+  deathStarBeamSnd = loadSound('/SIA2016NoC/projects/starwars/assets/beam.mp3')
 
   deathStarImg = loadImage('/SIA2016NoC/projects/starwars/assets/deathStar.png');
   hothImg = loadImage('/SIA2016NoC/projects/starwars/assets/hoth.png');
