@@ -3,9 +3,9 @@ var imgLeft;
 var imgRight;
 
 function preload() {
-  imgFront = loadImage("Front.png");
-  imgLeft = loadImage("Left.png");
-  imgRight = loadImage("Right.png");
+  imgFront = loadImage("/SIA2016NoC/projects/Finders_RainyDay/Front.png");
+  imgLeft = loadImage("/SIA2016NoC/projects/Finders_RainyDay/Left.png");
+  imgRight = loadImage("/SIA2016NoC/projects/Finders_RainyDay/Right.png");
 }
 
 var kid;
