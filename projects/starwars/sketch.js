@@ -49,7 +49,7 @@ var mousePointerIndex
 
 function setup() {
   // createCanvas(windowWidth, windowHeight)
-  var myCanvas = createCanvas(700, 700);
+  var myCanvas = createCanvas(1000, 700);
   myCanvas.parent('p5Canvas');
   noCursor()
   starwarsTheme = loadSound('/SIA2016NoC/projects/starwars/assets/theme.mp3',loaded);
@@ -116,7 +116,7 @@ function loaded(){
 
 function draw() {
   // createCanvas(windowWidth, windowHeight)
-  var myCanvas = createCanvas(700, 700);
+  var myCanvas = createCanvas(1000, 700);
   myCanvas.parent('p5Canvas');
   if(!isPlaying){
     opening.show()
