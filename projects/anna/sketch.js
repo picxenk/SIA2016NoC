@@ -27,7 +27,8 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(500, 500);
+  var myCanvas = createCanvas(500, 500);
+  myCanvas.parent('p5Canvas');
   amplitude = new p5.Amplitude();
   background(220);
   textAlign(CENTER, CENTER);
