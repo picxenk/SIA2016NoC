@@ -19,7 +19,7 @@ window.onload = function(){
 
   function Ship(){
     this.ship = new Image();
-    this.ship.src =loadImage('/SIA2016NoC/projects/jijin/1204.png');
+    this.ship.src = '/SIA2016NoC/projects/jijin/1204.png';
 
     this.x = width/2;
     //TODO 배 위치 == 수면 1)
