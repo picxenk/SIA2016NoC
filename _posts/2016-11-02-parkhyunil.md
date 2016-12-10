@@ -3,7 +3,8 @@ layout: post
 title:  "순환 / 미상"
 description: "작품과 팀에 대한 간단한 설명을 적습니다. 이 설명은 첫 페이지에 들어갑니다. 줄넘김 하지 말고 이렇게 길게 주욱 적어주면 됩니다. "
 date:   2016-12-06
-img: sketch_ex.jpg
+img: hyunil.png
+p5code: hyunil
 color: 555555
 author: "parkhyunil"
 permalink: /parkhyunil/
