@@ -22,5 +22,12 @@ permalink: /about/
 
 이 웹페이지는 서울예술대학교 2016년 2학기 <디지털아트프로그래밍> B/D반을 위해 만들어졌습니다.
 
+p5.js 기반으로 Nature of Code의 내용을 읽어나가는 과정이었지만,
+책이 담고있는 "자연을 시뮬레이션"하는 방법에 대한 지식보다는
+'코드'를 처음 배우는 사람을 대상으로 하는 '코드'의 의미에 대해 더 집중하는 수업입니다.
+
+끄적거리는 낙서나 짧은 글처럼, 그 연속선 상의 코드로, 결국 우리에게 주어진 또 다른 표현의 언어임을 느꼈기를 기대했습니다.
+
 - 지도교수 : 김승범 picxenk@gmail.com
 - 수업사이트 : <a href="http://bit.ly/sia2016noc">http://bit.ly/sia2016noc</a>
+- 온라인갤러리 코드 저장소 : <a href="https://github.com/picxenk/SIA2016NoC">https://github.com/picxenk/SIA2016NoC</a>
