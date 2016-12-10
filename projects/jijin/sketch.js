@@ -42,8 +42,8 @@ window.onload = function(){
   }
 
   function setupCanvas(){
-    canvas.width = width;
-    canvas.height = height;
+    canvas.width = 700;
+    canvas.height = 500;
 
     ctx.fillRect(0, 0, width, height);
 
